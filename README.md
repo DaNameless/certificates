@@ -8,7 +8,7 @@ Welcome to my repository showcasing my **licenses**, **certifications**, and **a
 
 Here is a list of my certifications:
 
-- **Machine Learning Specialization**
+- **Architecture and Sensor Networks**
   - **Issuing Organization**: IEEE CIRCUITS AND SYSTEMS SOCIETY / Yachay Tech University
   - **Year Earned**: 2025
   - **Certification ID**: [[Link]](https://github.com/DaNameless/certificates/blob/main/network_architecture_raspberry_workshop.pdf) 
