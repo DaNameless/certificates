@@ -9,6 +9,11 @@ Welcome to my repository showcasing my **licenses**, **certifications**, and **a
 Here is a list of my certifications:
 
 - **Machine Learning Specialization**
+  - **Issuing Organization**: IEEE CIRCUITS AND SYSTEMS SOCIETY / Yachay Tech University
+  - **Year Earned**: 2025
+  - **Certification ID**: [[Link]](https://github.com/DaNameless/certificates/blob/main/network_architecture_raspberry_workshop.pdf) 
+
+- **Machine Learning Specialization**
   - **Issuing Organization**: Standford University Online / DeepLearning.AI
   - **Year Earned**: 2025
   - **Certification ID**: [[Link]](https://github.com/DaNameless/certificates/blob/main/Coursera%208BKV0X84IL2S.pdf) 
